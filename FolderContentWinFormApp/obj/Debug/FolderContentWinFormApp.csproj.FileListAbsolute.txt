@@ -7,3 +7,12 @@ c:\users\faisal amin\documents\visual studio 2013\Projects\FolderContentWinFormA
 c:\users\faisal amin\documents\visual studio 2013\Projects\FolderContentWinFormApp\FolderContentWinFormApp\bin\Debug\FolderContentWinFormApp.pdb
 c:\users\faisal amin\documents\visual studio 2013\Projects\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.exe
 c:\users\faisal amin\documents\visual studio 2013\Projects\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.pdb
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\bin\Debug\FolderContentWinFormApp.exe.config
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.exe
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.pdb
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\bin\Debug\FolderContentWinFormApp.exe
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\bin\Debug\FolderContentWinFormApp.pdb
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.csprojResolveAssemblyReference.cache
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.Properties.Resources.resources
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.csproj.GenerateResource.Cache
+E:\Faisal\C#\FolderContentWinFormApp\FolderContentWinFormApp\obj\Debug\FolderContentWinFormApp.MainForm.resources
